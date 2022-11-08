@@ -1,0 +1,40 @@
+1, Met java kun je animeren en je website responsive maken
+2, Je maakt je website pagina bruikbaar
+3, Dat javascript een hoog level programming is
+4, Iets dat in je browser runt
+5, Dat het niet meer op de memory van je prosessor runt
+6, "docunaam".js
+7, Een value is iets waarmee je iets anders aanstuurd
+8, Een variable is een cijfer
+9, Een naam wat een variable aangeeft
+10, Gedaan!
+11, Name en Declaration regelds in Java
+12, A
+13, D
+14, Dat is een fout dat word aangegeven door de computer omdat de computer iets fout doet
+15, Dat is een fout dat word aangegeven door de computer omdat de person die script iets fout doet
+16, De en komt door de PC en ander door een Mens
+17, Iets wat data geeft dus String of een Number
+18, Door 2 slashes "//"
+19, 1 daarvan is text en een daarvan is een tag of iets
+20, ?
+21, 
+A - 2
+B - 1
+C - 3
+22, Nee, omdat hij het niet doet
+23, Nee, omdat hij het niet doet
+24, Een operator is een +, -, *, /
+25, == gebruik je voor true of false
+en = gebruikt je altijd voor uitrekenen
+26, 20
+27, 0,33333333
+28, false
+29, -10
+30, false
+31, false
+32, true
+33, -10
+34, 5
+35, 75
+36, 6

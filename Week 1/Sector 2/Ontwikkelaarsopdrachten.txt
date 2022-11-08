@@ -1,0 +1,11 @@
+1, Great!
+Omdat, bij de function kijkt i of de age groter of gelijk aan 18 is en of er 88 in het birthyear zit.
+2,
+let age = 18;
+let birthYear = 1988;
+
+    if (age >= 18, birthYear = 88){
+        console.log("Great!");
+    } else {
+        console.log("Vos!");
+}

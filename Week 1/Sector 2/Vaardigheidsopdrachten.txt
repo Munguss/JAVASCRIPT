@@ -1,0 +1,51 @@
+1, 
+const school = "ROC B";
+const vorigeSchool = "Meergronden";
+var cijfer = "10";
+
+console.log(school, vorigeSchool, cijfer);
+
+2,
+var age = "17";
+
+console.log(age);
+
+3, String
+4, Numbers
+5, String
+6, Boolean
+7, Numbers
+8, Numbers
+9, //Namen
+10,
+const rabbit = "Konijn";
+
+banaan(rabbit);
+
+function banaan(temp) {
+    console.log(typeof temp);
+}
+
+11,
+var geboren = 2005 ;
+var nu = 2022;
+
+function appel(temp,temp2) {
+    return nu - geboren;
+}
+
+console.log(appel(nu,geboren));
+
+13,
+const myName = "Sky";
+const myAchtername = "Roelvink";
+var myAge = 17;
+
+console.log(myName + " " + myAchtername + " " + myAge);
+
+1,
+const x = 1;
+const y = "1";
+const z = 2;
+
+console.log(z+x+6);
