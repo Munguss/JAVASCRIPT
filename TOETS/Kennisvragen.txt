@@ -1,0 +1,39 @@
+1, 	DOM-manupilatie is hoe je met javascript je html kan gaan aanpassen
+	document.querySelector();
+
+2,	Een truhty value is dat als een boolean true is en hetzelfde voor false dan is de boolean false
+	if(){
+	else{
+	}
+	}
+
+3, 	Met een array kun je meerdere varialenen opslaan in 1 script gedeelte
+	Met een object kun je meerderen waarden + variabelen in opslaan en met een array alleen variabelen
+
+4,
+a,	Een for loop gebruik je om iets steeds te herhalen
+b,	Een while loop gebruik je ook om iets steeds te herhalen maar jet stopt
+c,	Je kunt ze allebij gebruiken om iets te herhalen
+	for (let i = 0; i < 10; i++) {
+  	println(i);
+	}
+d,	Staat hierboven
+	for(let i = 0; i < 10; i++) {console.log(i);}
+	Let P = i;
+	While(i<10){console.log(i); i++})
+
+5,	
+a,	Een if statement is dat er iet gebeurt als iets true is en er iets anders gebeurt als iets false is
+b,	Switch statement gebruik je voor als iets een bepaald stuk moet worden uitgevoerd
+c,	staat hier boven &
+4.	if(true){console.log(`De dag:`) }
+	Switch(dagen){
+	Case maandag:
+	"Stukje code"
+	Break;
+	Case dinsdag:
+	"Stukje code"
+	Break;
+	Default:
+	"Stukje code"
+
